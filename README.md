@@ -30,7 +30,7 @@ Check out my [coding portfolio!](https://ramitdour.com/)
 
 ## 🎓 About Me
 
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
+Sharing my journey on:
 
 - [Instagram](https://www.instagram.com/ramitdour/)
 - [TikTok](https://www.tiktok.com/@ramitdour)
